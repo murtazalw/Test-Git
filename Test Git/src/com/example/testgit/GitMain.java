@@ -7,6 +7,7 @@ public class GitMain {
 		System.out.println("c2");
 		System.out.println("c2-1");
 		System.out.println("c2-1.1");
+		System.out.println("c2-1.2");
 		System.out.println("c3");
 	}
 
